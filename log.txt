@@ -47,3 +47,5 @@ type: movie-this search: the predator
 type: movie-this search: predator
 type: movie-this search: 
 type: do-what-it-says search: 
+type: concert-this search: iron maiden
+type: concert-this search: bear

@@ -49,3 +49,4 @@ type: movie-this search:
 type: do-what-it-says search: 
 type: concert-this search: iron maiden
 type: concert-this search: bear
+type: concert-this search: iron maiden

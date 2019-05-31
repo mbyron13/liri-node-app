@@ -50,3 +50,7 @@ type: do-what-it-says search:
 type: concert-this search: iron maiden
 type: concert-this search: bear
 type: concert-this search: iron maiden
+type: spotify-this-song search: hi
+type: concert-this search: iron maiden
+type: movie-this search: predator
+type: do-what-it-says search: 
